@@ -1,2 +1,58 @@
 {"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T02:12:08.907Z"}
 {"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T02:12:08.925Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T02:46:09.365Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T02:46:09.375Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T02:47:02.690Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T02:47:02.703Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T02:48:54.331Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T02:48:54.342Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:02:49:03 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 684 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T02:49:03.614Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T04:46:14.379Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T04:46:14.402Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:04:46:21 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 684 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T04:46:21.447Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T04:47:34.460Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T04:47:34.470Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T04:51:19.651Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T04:51:19.667Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T04:51:52.687Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T04:51:52.701Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T04:51:59.124Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T04:51:59.141Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:04:52:07 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 684 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T04:52:07.839Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:04:52:07 +0000] \"POST /api/v1/users/register HTTP/1.1\" 400 45 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T04:52:07.876Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:04:52:07 +0000] \"POST /api/v1/users/register HTTP/1.1\" 400 68 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T04:52:07.900Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:04:52:07 +0000] \"POST /api/v1/users/register HTTP/1.1\" 400 44 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T04:52:07.917Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T04:54:18.199Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T04:54:18.213Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T04:54:50.896Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T04:54:50.905Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T04:59:21.148Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T04:59:21.166Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T04:59:31.394Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T04:59:31.402Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:04:59:41 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 705 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T04:59:41.596Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:00:08.219Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:00:08.230Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:05:00:17 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 705 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T05:00:17.125Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:00:50.899Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:00:50.912Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:05:00:56 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 631 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T05:00:56.264Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:01:27.396Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:01:27.409Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:02:57.581Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:02:57.596Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:09:46.541Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:09:46.556Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:09:58.963Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:09:58.972Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:10:08.479Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:10:08.492Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:05:10:16 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 617 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T05:10:16.615Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:11:48.236Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:11:48.245Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:12:47.417Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:12:47.426Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:13:04.259Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:13:04.279Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T05:14:18.237Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T05:14:18.247Z"}

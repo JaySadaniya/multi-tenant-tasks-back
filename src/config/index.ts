@@ -4,6 +4,8 @@ dotenv.config();
 const config = {
   ENV: process.env.NODE_ENV || 'development',
   PORT: parseInt(process.env.PORT as string, 10) || 3000,
+  SALT_ROUNDS: parseInt(process.env.SALT_ROUNDS as string, 10) || 10,
+  JWT_SECRET: process.env.JWT_SECRET || 'your_jwt_secret',
   DB: {
     USERNAME: process.env.DB_USERNAME as string,
     PASSWORD: process.env.DB_PASSWORD as string,
