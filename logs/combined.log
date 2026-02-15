@@ -272,3 +272,425 @@
 {"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:33:51.660Z"}
 {"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:33:52.008Z"}
 {"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:33:52.023Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:44:01.322Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:44:01.340Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:44:01.688Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:44:01.700Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:44:12.781Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:44:12.796Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:44:12.881Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:44:12.890Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:44:29.291Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:44:29.328Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:44:29.960Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:44:29.971Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:45:01.717Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:45:01.731Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:45:01.875Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:45:01.885Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:50:29.002Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:50:29.020Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:50:29.236Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:50:29.252Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:51:02.780Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:51:02.796Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:51:02.911Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:51:02.923Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:51:21.812Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:51:21.824Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:51:21.926Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:51:21.935Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:54:37.642Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:54:37.658Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T08:54:37.873Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T08:54:37.884Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:00:26.020Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:00:26.040Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:00:26.411Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:00:26.425Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:02:01.921Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:02:01.972Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:02:03.626Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:02:03.729Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:05:53.247Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:05:53.265Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:05:53.356Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:05:53.377Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:06:53.651Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:06:53.679Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:06:53.852Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:06:53.866Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:20:02.272Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:20:02.288Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:20:02.414Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:20:02.425Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:23:13.252Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:23:13.277Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:23:13.414Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:23:13.432Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:23:29.018Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:23:29.057Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:23:29.163Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:23:29.172Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:23:40.385Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:23:40.403Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:23:40.695Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:23:40.708Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:24:00.359Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:24:00.373Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:24:00.494Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:24:00.506Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:25:44.278Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:25:44.300Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:25:44.905Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:25:44.922Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:26:12.530Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:26:12.546Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:26:12.548Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:26:12.560Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:30:41.392Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:30:41.408Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:30:41.577Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:30:41.593Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:31:01.199Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:31:01.214Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:31:01.554Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:31:01.566Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:33:13.541Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:33:13.552Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:33:13.981Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:33:13.993Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:33:58.254Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:33:58.267Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:33:58.384Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:33:58.403Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:41:32.157Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:41:32.170Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:41:33.022Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:41:33.038Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:42:58.604Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:42:58.615Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:42:59.032Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:42:59.049Z"}
+{"level":"error","message":"Not Found","service":"user-service","stack":"Error: Not Found\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\app.ts:27:22\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at logger (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\morgan\\index.js:144:5)\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9","timestamp":"2026-02-15T09:43:48.070Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:43:48 +0000] \"POST /api/organizations HTTP/1.1\" 404 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:43:48.105Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:44:20 +0000] \"POST /api/v1/organizations HTTP/1.1\" 201 165 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:44:20.031Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:44:20 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 228 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:44:20.082Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:44:20 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 584 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:44:20.296Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:44:20 +0000] \"POST /api/v1/projects/ab265534-7878-4e5f-aa06-5ae01d406d8d/users HTTP/1.1\" 400 32 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:44:20.307Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:44:47 +0000] \"POST /api/v1/organizations HTTP/1.1\" 201 165 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:44:47.650Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:44:47 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 228 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:44:47.692Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:44:47 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 584 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:44:47.886Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:44:47 +0000] \"POST /api/v1/projects/92834cd4-5610-4302-bc6d-094081f9081f/users HTTP/1.1\" 200 48 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:44:47.947Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'id')","service":"user-service","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at createTask (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\controllers\\taskController.ts:8:29)\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at router.handle (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:186:3)","timestamp":"2026-02-15T09:44:48.038Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:44:48 +0000] \"POST /api/v1/tasks HTTP/1.1\" 500 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:44:48.131Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:45:16 +0000] \"POST /api/v1/organizations HTTP/1.1\" 201 165 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:45:16.482Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:45:16 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 228 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:45:16.563Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:45:16 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 584 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:45:16.817Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:45:16 +0000] \"POST /api/v1/projects/cbd2d451-7cc4-4720-90bd-b2fcae9a2ade/users HTTP/1.1\" 200 48 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:45:16.870Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'id')","service":"user-service","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at createTask (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\controllers\\taskController.ts:8:29)\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at router.handle (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:186:3)","timestamp":"2026-02-15T09:45:16.891Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:45:16 +0000] \"POST /api/v1/tasks HTTP/1.1\" 500 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:45:16.921Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:46:02.491Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:46:02.507Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:46:19.746Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:46:19.764Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:46:51.868Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:46:51.877Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:47:13 +0000] \"POST /api/v1/organizations HTTP/1.1\" 201 165 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:47:13.162Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:47:13 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 228 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:47:13.223Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:47:13 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 584 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:47:13.437Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:47:13 +0000] \"POST /api/v1/projects/c0fafbaa-c36e-4258-b299-8d5a25d70705/users HTTP/1.1\" 401 31 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:47:13.453Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:47:26 +0000] \"POST /api/v1/organizations HTTP/1.1\" 201 165 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:47:26.834Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:47:26 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 228 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:47:26.909Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:47:27 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 584 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:47:27.103Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:47:27 +0000] \"POST /api/v1/projects/ad4e85ef-e5a5-4fae-b85a-72d36004496f/users HTTP/1.1\" 200 48 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:47:27.141Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:47:27 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 330 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:47:27.173Z"}
+{"level":"error","message":"FOR UPDATE cannot be applied to the nullable side of an outer join","service":"user-service","stack":"Error\n    at Query.run (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\sequelize\\src\\dialects\\postgres\\query.js:76:25)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\sequelize\\src\\sequelize.js:650:28\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async PostgresQueryInterface.select (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\sequelize\\src\\dialects\\abstract\\query-interface.js:1001:12)\n    at async Task.findAll (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\sequelize\\src\\model.js:1824:21)\n    at async Task.findOne (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\sequelize\\src\\model.js:1998:12)\n    at async Task.findByPk (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\sequelize\\src\\model.js:1955:12)\n    at async C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\services\\taskService.ts:134:18\n    at async C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\sequelize\\src\\sequelize.js:1197:18\n    at async Object.updateTaskStatus (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\services\\taskService.ts:133:10)","timestamp":"2026-02-15T09:47:27.236Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:47:27 +0000] \"PATCH /api/v1/tasks/df6d1222-0787-40e9-82d4-bc748fbd5fbd/status HTTP/1.1\" 500 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:47:27.258Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:47:53.160Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:47:53.179Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:47:53.945Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:47:53.961Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:48:05.372Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:48:05.383Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:25 +0000] \"POST /api/v1/organizations HTTP/1.1\" 201 165 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:25.720Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:25 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 228 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:25.753Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:25 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 584 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:25.905Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:25 +0000] \"POST /api/v1/projects/161f6a85-ea50-48be-9692-59b0a9d1c603/users HTTP/1.1\" 200 48 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:25.942Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:25 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 330 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:25.975Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:26 +0000] \"PATCH /api/v1/tasks/ed1db45e-71a4-48a3-9625-c7da0fa6239c/status HTTP/1.1\" 200 351 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:26.024Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:26 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 330 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:26.047Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:26 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 336 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:26.077Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:26 +0000] \"GET /api/v1/projects/161f6a85-ea50-48be-9692-59b0a9d1c603/analytics HTTP/1.1\" 200 174 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:26.120Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:51 +0000] \"POST /api/v1/organizations HTTP/1.1\" 201 165 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:51.057Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:51 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 228 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:51.089Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:51 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 584 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:51.262Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:51 +0000] \"POST /api/v1/projects/17108984-6daf-4c1a-9b98-21014c2a5d22/users HTTP/1.1\" 200 48 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:51.288Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:51 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 330 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:51.315Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:51 +0000] \"PATCH /api/v1/tasks/ff9cc8d8-0598-46f8-9235-83cfc8169735/status HTTP/1.1\" 200 351 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:51.336Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:48:51 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 330 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:48:51.362Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:49:04 +0000] \"POST /api/v1/organizations HTTP/1.1\" 201 165 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:49:04.327Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:49:04 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 228 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:49:04.361Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:49:04 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 584 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:49:04.512Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:49:04 +0000] \"POST /api/v1/projects/a286adfc-318e-48a8-b92c-4e8b39b1b71a/users HTTP/1.1\" 200 48 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:49:04.530Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:49:04 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 330 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:49:04.556Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:49:04 +0000] \"PATCH /api/v1/tasks/f0026e6b-f4e0-488d-ae61-f7372baf6371/status HTTP/1.1\" 200 351 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:49:04.578Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:49:04 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 330 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:49:04.612Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:49:04 +0000] \"GET /api/v1/tasks?search=Task%202 HTTP/1.1\" 200 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:49:04.655Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:49:04 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 336 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:49:04.854Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:49:04 +0000] \"GET /api/v1/projects/a286adfc-318e-48a8-b92c-4e8b39b1b71a/analytics HTTP/1.1\" 200 174 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:49:04.876Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:49:42.744Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:49:42.765Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:49:42.766Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:49:42.783Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:49:42.811Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:49:42.828Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:50:01.736Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:50:01.748Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:50:18 +0000] \"POST /api/v1/organizations HTTP/1.1\" 201 165 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:50:18.634Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:50:18 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 228 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:50:18.672Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:50:18 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 584 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:50:18.865Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:50:18 +0000] \"POST /api/v1/projects/335da0a8-4375-45d5-ba9e-c416e3874e8a/users HTTP/1.1\" 200 48 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:50:18.899Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:50:18 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 330 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:50:18.933Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:50:18 +0000] \"PATCH /api/v1/tasks/e89e99a9-b3c6-4cec-9a6d-9a32d205bd35/status HTTP/1.1\" 200 351 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:50:18.967Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:50:18 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 352 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:50:18.997Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:50:19 +0000] \"GET /api/v1/tasks?search=Task%202 HTTP/1.1\" 200 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:50:19.068Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:50:19 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 358 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:50:19.267Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:09:50:19 +0000] \"GET /api/v1/projects/335da0a8-4375-45d5-ba9e-c416e3874e8a/analytics HTTP/1.1\" 200 174 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T09:50:19.305Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:53:47.708Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:53:47.745Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:53:47.735Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:53:47.773Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:53:48.172Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:53:48.188Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T09:53:50.481Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T09:53:50.493Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:00:24.324Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:00:24.313Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:00:24.348Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:00:24.343Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:00:24.643Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:00:24.744Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:00:25.655Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:00:25.668Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:01:12.768Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:01:12.789Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:01:12.947Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:01:12.969Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:01:12.990Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:01:13.004Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:01:13.755Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:01:13.786Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:02:54.313Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:02:54.336Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:02:56.200Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:02:56.232Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:02:56.442Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:02:56.484Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:02:56.815Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:02:56.831Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:02:57.261Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:02:57.274Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:02:58 +0000] \"POST /api/v1/organizations HTTP/1.1\" 201 165 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:02:58.814Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:02:58 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 228 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:02:58.858Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:02:59 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 584 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:02:59.078Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:02:59 +0000] \"POST /api/v1/projects/fc16c14e-6224-425c-b69a-ed8e92fef768/users HTTP/1.1\" 200 48 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:02:59.121Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:02:59 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 352 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:02:59.181Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:02:59 +0000] \"PATCH /api/v1/tasks/a252a654-8c17-4a4b-9e09-e12018919b55/status HTTP/1.1\" 200 373 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:02:59.222Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:02:59 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 352 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:02:59.249Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:02:59 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 358 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:02:59.275Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:02:59 +0000] \"GET /api/v1/projects/fc16c14e-6224-425c-b69a-ed8e92fef768/analytics HTTP/1.1\" 200 174 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:02:59.310Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:09:36.041Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:09:36.064Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:09:36.149Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:09:36.183Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:09:36.604Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:09:36.616Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:09:36.618Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:09:36.630Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:16:07.019Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:16:07.097Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:16:07.247Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:16:07.282Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:16:07.392Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:16:07.414Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:16:09.411Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:16:09.422Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:17:18.996Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:17:19.021Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:17:19.043Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:17:19.083Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:17:19.486Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:17:19.503Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:17:20.691Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:17:20.710Z"}
+{"level":"error","message":"Not Found","service":"user-service","stack":"Error: Not Found\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\app.ts:27:22\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at logger (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\morgan\\index.js:144:5)\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9","timestamp":"2026-02-15T10:17:28.195Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:17:28 +0000] \"POST /api/users/register HTTP/1.1\" 404 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:17:28.238Z"}
+{"level":"error","message":"Not Found","service":"user-service","stack":"Error: Not Found\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\app.ts:27:22\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at logger (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\morgan\\index.js:144:5)\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9","timestamp":"2026-02-15T10:18:12.169Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:18:12 +0000] \"POST /api/users/register HTTP/1.1\" 404 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:18:12.178Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:18:42.084Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:18:42.142Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:18:42.232Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:18:42.260Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:18:42.269Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:18:42.299Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:18:42.471Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:18:42.491Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:18:51 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 605 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:18:51.506Z"}
+{"level":"error","message":"Not Found","service":"user-service","stack":"Error: Not Found\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\app.ts:27:22\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)","timestamp":"2026-02-15T10:18:51.528Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:18:51 +0000] \"POST /api/v1/users/login HTTP/1.1\" 404 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:18:51.540Z"}
+{"level":"error","message":"Not Found","service":"user-service","stack":"Error: Not Found\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\app.ts:27:22\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)","timestamp":"2026-02-15T10:18:51.555Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:18:51 +0000] \"POST /api/v1/users/login HTTP/1.1\" 404 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:18:51.587Z"}
+{"level":"error","message":"Not Found","service":"user-service","stack":"Error: Not Found\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\app.ts:27:22\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)","timestamp":"2026-02-15T10:18:51.595Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:18:51 +0000] \"POST /api/v1/users/login HTTP/1.1\" 404 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:18:51.617Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:19:42 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 605 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:19:42.882Z"}
+{"level":"error","message":"Not Found","service":"user-service","stack":"Error: Not Found\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\app.ts:27:22\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)","timestamp":"2026-02-15T10:19:42.908Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:19:42 +0000] \"POST /api/v1/users/login HTTP/1.1\" 404 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:19:42.928Z"}
+{"level":"error","message":"Not Found","service":"user-service","stack":"Error: Not Found\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\app.ts:27:22\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)","timestamp":"2026-02-15T10:19:42.956Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:19:43 +0000] \"POST /api/v1/users/login HTTP/1.1\" 404 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:19:43.003Z"}
+{"level":"error","message":"Not Found","service":"user-service","stack":"Error: Not Found\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\src\\app.ts:27:22\n    at Layer.handleRequest (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)\n    at C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\Lenovo\\Documents\\TASK\\multi-tenant-tasks-back\\node_modules\\router\\index.js:276:14)","timestamp":"2026-02-15T10:19:43.018Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:19:43 +0000] \"POST /api/v1/users/login HTTP/1.1\" 404 - \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:19:43.043Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:20:51.174Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:20:51.225Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:20:51.215Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:20:51.246Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:20:51.290Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:20:51.308Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:20:51.564Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:20:51.577Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:21:01.190Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T10:21:01.206Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:22:00 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 605 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:22:00.791Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:22:00 +0000] \"POST /api/v1/users/login HTTP/1.1\" 200 605 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:22:00.961Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:22:01 +0000] \"POST /api/v1/users/login HTTP/1.1\" 401 39 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:22:01.083Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:22:01 +0000] \"POST /api/v1/users/login HTTP/1.1\" 401 39 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:22:01.091Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:27:31.151Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:27:31.169Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:27:31.267Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:27:31.287Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:27:31.392Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:27:31.403Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:27:31.410Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:27:31.423Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:29:27.848Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:29:27.887Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:29:28.031Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:29:28.046Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:29:28.241Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:29:28.254Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:29:28.971Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:29:28.979Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:58:30.735Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:58:30.809Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:58:30.773Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:58:30.855Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:58:31.150Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:58:31.236Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:58:31.197Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T10:58:31.268Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:58:31.781Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T10:58:31.802Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:41 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 593 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:41.775Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:42 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 598 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:42.455Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:42 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 219 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:42.741Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:42 +0000] \"POST /api/v1/projects HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:42.813Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:42 +0000] \"GET /api/v1/activity HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:42.871Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:43 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 218 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:43.038Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:43 +0000] \"POST /api/v1/tasks HTTP/1.1\" 400 56 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:43.130Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:46 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 593 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:46.605Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:46 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 598 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:46.775Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:46 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 219 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:46.787Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:46 +0000] \"POST /api/v1/projects HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:46.794Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:46 +0000] \"GET /api/v1/activity HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:46.805Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:46 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 218 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:46.820Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:58:46 +0000] \"POST /api/v1/tasks HTTP/1.1\" 400 56 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:58:46.826Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T10:59:18.950Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T10:59:18.972Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:59:35 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 593 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:59:35.840Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:59:35 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 598 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:59:35.987Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:59:35 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 219 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:59:35.998Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:59:36 +0000] \"POST /api/v1/projects HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:59:36.007Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:59:36 +0000] \"GET /api/v1/activity HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:59:36.015Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:59:36 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 218 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:59:36.026Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:10:59:36 +0000] \"POST /api/v1/tasks HTTP/1.1\" 400 56 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T10:59:36.038Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:00:00 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 593 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:00:00.203Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:00:00 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 598 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:00:00.343Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:00:00 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 219 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:00:00.355Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:00:00 +0000] \"POST /api/v1/projects HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:00:00.369Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:00:00 +0000] \"GET /api/v1/activity HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:00:00.378Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:00:00 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 218 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:00:00.393Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:00:00 +0000] \"POST /api/v1/tasks HTTP/1.1\" 400 56 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:00:00.405Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:01:08.180Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T11:01:08.206Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:01:08.374Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:01:08.412Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:01:08.569Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:01:08.595Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:01:08.677Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:01:08.695Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:01:08.762Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:01:08.787Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:01:08.847Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T11:01:08.863Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:02:13.264Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:02:13.320Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:02:13.665Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:02:13.708Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T11:02:13.699Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:02:13.770Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:02:14.041Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:02:14.061Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:02:14.530Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:02:14.543Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:02:16.563Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T11:02:16.579Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:02:27 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 593 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:02:27.990Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:02:28 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 598 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:02:28.192Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:02:28 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 219 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:02:28.220Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:02:28 +0000] \"POST /api/v1/projects HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:02:28.234Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:02:28 +0000] \"GET /api/v1/activity HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:02:28.248Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:02:28 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 229 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:02:28.261Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:02:28 +0000] \"POST /api/v1/tasks HTTP/1.1\" 400 54 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:02:28.298Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:03:51.469Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:03:51.540Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:03:52.066Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T11:03:52.140Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:03:52.252Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T11:03:52.354Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:03:53.436Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:03:53.512Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:03:53.526Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:03:53.711Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:03:54.949Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:03:54.964Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:03:55.118Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:03:55.134Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:03:55.468Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T11:03:55.483Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:04:09 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 593 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:04:09.539Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:04:09 +0000] \"POST /api/v1/users/register HTTP/1.1\" 201 598 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:04:09.785Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:04:09 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 219 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:04:09.833Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:04:09 +0000] \"POST /api/v1/projects HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:04:09.880Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:04:09 +0000] \"GET /api/v1/activity HTTP/1.1\" 403 49 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:04:09.915Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:04:09 +0000] \"POST /api/v1/projects HTTP/1.1\" 201 229 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:04:09.957Z"}
+{"level":"info","message":"::1 - - [15/Feb/2026:11:04:10 +0000] \"POST /api/v1/tasks HTTP/1.1\" 201 357 \"-\" \"node\"","service":"user-service","timestamp":"2026-02-15T11:04:10.032Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:06:34.133Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:06:34.155Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:06:34.162Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:06:34.177Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:06:34.271Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T11:06:34.309Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:06:34.730Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:06:34.743Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:06:34.828Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:06:34.838Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:07:34.822Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:07:34.845Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:07:34.909Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:07:34.931Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:07:34.995Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:07:35.012Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:07:35.377Z"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service","timestamp":"2026-02-15T11:07:35.390Z"}
+{"level":"info","message":"Database connection established successfully.","service":"user-service","timestamp":"2026-02-15T11:07:35.928Z"}
+{"level":"info","message":"Server is running on port 3001","service":"user-service","timestamp":"2026-02-15T11:07:35.949Z"}

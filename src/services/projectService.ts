@@ -1,7 +1,17 @@
 import { Project, User } from '../models';
 
-export const createProject = async (organizationId: string, name: string) => {
-  return await Project.create({ organizationId, name });
+export const createProject = async (
+  organizationId: string,
+  name: string,
+  userId: string,
+) => {
+  const project = await Project.create({ organizationId, name });
+  const user = await User.findByPk(userId);
+  if (user) {
+    // @ts-ignore
+    await project.addMember(user);
+  }
+  return project;
 };
 
 export const addUserToProject = async (projectId: string, userId: string) => {
@@ -15,7 +25,6 @@ export const addUserToProject = async (projectId: string, userId: string) => {
     throw new Error('User not found');
   }
 
-  // 'addMember' comes from 'as: members' in the association definition
   // @ts-ignore
   await project.addMember(user);
 

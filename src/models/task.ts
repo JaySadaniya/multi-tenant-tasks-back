@@ -9,6 +9,8 @@ export class Task extends Model {
   public status!: TaskStatus;
   public projectId!: string;
   public assigneeId!: string | null;
+  public dueDate!: Date;
+  public completedAt!: Date | null;
 
   public readonly createdAt!: Date;
   public readonly updatedAt!: Date;
@@ -43,10 +45,18 @@ Task.init(
       type: DataTypes.UUID,
       allowNull: true,
     },
+    dueDate: {
+      type: DataTypes.DATE,
+      allowNull: false,
+    },
+    completedAt: {
+      type: DataTypes.DATE,
+      allowNull: true,
+    },
   },
   {
     sequelize,
     tableName: 'tasks',
     paranoid: true, // Soft delete
-  }
+  },
 );

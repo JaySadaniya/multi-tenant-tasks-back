@@ -8,6 +8,7 @@ export class ActivityLog extends Model {
   public entityId!: string;
   public userId!: string;
   public organizationId!: string;
+  public details!: any;
 
   public readonly createdAt!: Date;
   public readonly updatedAt!: Date;
@@ -39,6 +40,10 @@ ActivityLog.init(
     organizationId: {
       type: DataTypes.UUID,
       allowNull: false,
+    },
+    details: {
+      type: DataTypes.JSONB,
+      allowNull: true,
     },
   },
   {
