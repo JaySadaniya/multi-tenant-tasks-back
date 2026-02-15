@@ -8,3 +8,8 @@ export enum TaskStatus {
   IN_PROGRESS = 'In Progress',
   DONE = 'Done',
 }
+
+// Export all type definitions
+export * from './task.types';
+export * from './activityLog.types';
+export * from './common.types';

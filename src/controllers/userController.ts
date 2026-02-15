@@ -17,15 +17,8 @@ export const register = async (
     );
 
     res.status(201).json(result);
-  } catch (error: any) {
-    if (
-      error.message === 'User already exists' ||
-      error.message === 'Organization not found'
-    ) {
-      res.status(400).json({ message: error.message });
-    } else {
-      next(error);
-    }
+  } catch (error) {
+    next(error);
   }
 };
 
@@ -40,13 +33,8 @@ export const login = async (
     const result = await userService.login(email, password);
 
     res.status(200).json(result);
-  } catch (error: any) {
-    if (error.message === 'Invalid email or password') {
-      res.status(401).json({ message: error.message });
-    } else {
-      next(error);
-    }
-  }
+  } catch (error) {
+    next(error);
   }
 };
 

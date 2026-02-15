@@ -6,17 +6,15 @@ import {
   ProjectUser,
   ActivityLog,
 } from '../models';
-import { TaskStatus } from '../types';
+import {
+  TaskStatus,
+  CreateTaskData,
+  UpdateTaskData,
+  GetTasksFilters,
+  PaginationOptions,
+} from '../types';
+import { NotFoundError, BadRequestError } from '../utils/errors';
 import { Op } from 'sequelize';
-
-interface CreateTaskData {
-  title: string;
-  description?: string;
-  projectId: string;
-  assigneeId?: string;
-  status?: TaskStatus;
-  dueDate: Date;
-}
 
 export const createTask = async (data: CreateTaskData, userId: string) => {
   return await sequelize.transaction(async (t: any) => {
@@ -24,13 +22,13 @@ export const createTask = async (data: CreateTaskData, userId: string) => {
 
     const project = await Project.findByPk(projectId, { transaction: t });
     if (!project) {
-      throw new Error('Project not found');
+      throw new NotFoundError('Project');
     }
 
     if (assigneeId) {
       const user = await User.findByPk(assigneeId, { transaction: t });
       if (!user) {
-        throw new Error('User not found');
+        throw new NotFoundError('User');
       }
 
       const membership = await ProjectUser.findOne({
@@ -43,7 +41,7 @@ export const createTask = async (data: CreateTaskData, userId: string) => {
       });
 
       if (!membership) {
-        throw new Error('Assignee must be a member of the project');
+        throw new BadRequestError('Assignee must be a member of the project');
       }
     }
 
@@ -76,12 +74,6 @@ export const createTask = async (data: CreateTaskData, userId: string) => {
   });
 };
 
-interface UpdateTaskData {
-  title?: string;
-  description?: string;
-  dueDate?: Date;
-}
-
 export const updateTask = async (
   taskId: string,
   data: UpdateTaskData,
@@ -95,7 +87,7 @@ export const updateTask = async (
       transaction: t,
     });
     if (!task) {
-      throw new Error('Task not found');
+      throw new NotFoundError('Task');
     }
 
     const oldData = {
@@ -133,7 +125,12 @@ export const updateTaskStatus = async (
   return await sequelize.transaction(async (t: any) => {
     const task = await Task.findByPk(taskId, {
       include: [
-        { model: Project, as: 'project', attributes: ['organizationId'] },
+        {
+          model: Project,
+          as: 'project',
+          attributes: ['organizationId'],
+          required: true,
+        },
       ],
       lock: true,
       transaction: t,
@@ -144,11 +141,11 @@ export const updateTaskStatus = async (
     }
 
     if (task.status === TaskStatus.DONE) {
-      throw new Error('Cannot update a completed task');
+      throw new BadRequestError('Cannot update a completed task');
     }
 
     if (!Object.values(TaskStatus).includes(status)) {
-      throw new Error('Invalid status');
+      throw new BadRequestError('Invalid status');
     }
 
     const oldStatus = task.status;
@@ -193,13 +190,13 @@ export const updateTaskAssignee = async (
       transaction: t,
     });
     if (!task) {
-      throw new Error('Task not found');
+      throw new NotFoundError('Task');
     }
 
     if (assigneeId && assigneeId !== task.assigneeId) {
       const user = await User.findByPk(assigneeId, { transaction: t });
       if (!user) {
-        throw new Error('User not found');
+        throw new NotFoundError('User');
       }
 
       const membership = await ProjectUser.findOne({
@@ -212,7 +209,7 @@ export const updateTaskAssignee = async (
       });
 
       if (!membership) {
-        throw new Error('Assignee must be a member of the project');
+        throw new BadRequestError('Assignee must be a member of the project');
       }
     }
 
@@ -242,24 +239,12 @@ export const updateTaskAssignee = async (
 export const deleteTask = async (taskId: string) => {
   const task = await Task.findByPk(taskId);
   if (!task) {
-    throw new Error('Task not found');
+    throw new NotFoundError('Task');
   }
 
   await task.destroy();
   return { message: 'Task deleted successfully' };
 };
-
-interface GetTasksFilters {
-  projectId?: string;
-  assigneeId?: string;
-  status?: TaskStatus;
-  search?: string;
-}
-
-interface PaginationOptions {
-  page: number;
-  limit: number;
-}
 
 export const getTasks = async (
   filters: GetTasksFilters,
@@ -304,7 +289,7 @@ export const getTasks = async (
 export const getProjectAnalytics = async (projectId: string) => {
   const project = await Project.findByPk(projectId);
   if (!project) {
-    throw new Error('Project not found');
+    throw new NotFoundError('Project');
   }
 
   // 1. Tasks completed per user
@@ -342,25 +327,29 @@ export const getProjectAnalytics = async (projectId: string) => {
   });
 
   // 3. Average completion time (in milliseconds)
-  const completedTasks = await Task.findAll({
+  const result: any = await Task.findOne({
     where: {
       projectId,
       status: TaskStatus.DONE,
       completedAt: { [Op.not]: null },
     },
-    attributes: ['createdAt', 'completedAt'],
+    attributes: [
+      [
+        sequelize.fn(
+          'AVG',
+          sequelize.literal(
+            'EXTRACT(EPOCH FROM ("completedAt" - "createdAt")) * 1000',
+          ),
+        ),
+        'avgCompletionTime',
+      ],
+    ],
     raw: true,
   });
 
-  let totalTime = 0;
-  completedTasks.forEach((t: any) => {
-    const start = new Date(t.createdAt).getTime();
-    const end = new Date(t.completedAt).getTime();
-    totalTime += end - start;
-  });
-
-  const averageCompletionTime =
-    completedTasks.length > 0 ? totalTime / completedTasks.length : 0;
+  const averageCompletionTime = result?.avgCompletionTime
+    ? parseFloat(result.avgCompletionTime as string)
+    : 0;
 
   return {
     completedTasksPerUser: completedTasksPerUser.map((t: any) => ({

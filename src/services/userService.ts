@@ -4,6 +4,11 @@ import { User } from '../models/user';
 import { Organization } from '../models/organization';
 import { UserRole } from '../types';
 import { transform } from '../transformers/userTransformer';
+import {
+  NotFoundError,
+  BadRequestError,
+  UnauthorizedError,
+} from '../utils/errors';
 import config from '../config';
 
 const SALT_ROUNDS = config.SALT_ROUNDS;
@@ -30,12 +35,12 @@ export const register = async (
 ) => {
   const organization = await Organization.findByPk(organizationId);
   if (!organization) {
-    throw new Error('Organization not found');
+    throw new NotFoundError('Organization');
   }
 
   const existingUser = await User.findOne({ where: { email } });
   if (existingUser) {
-    throw new Error('User already exists');
+    throw new BadRequestError('User already exists');
   }
 
   const hashedPassword = await bcrypt.hash(password, SALT_ROUNDS);
@@ -47,35 +52,47 @@ export const register = async (
     role,
   });
 
+  // Fetch user with organization to get organization name
+  const userWithOrg = await User.findByPk(newUser.id, {
+    include: [
+      { model: Organization, as: 'organization', attributes: ['name'] },
+    ],
+  });
+
   const token = generateToken(newUser);
 
-  const user = transform(newUser);
-
-  return { user, token };
+  return { user: transform(userWithOrg!), token };
 };
 
 export const login = async (email: string, password: string) => {
-  const user = await User.findOne({ where: { email } });
+  const user = await User.findOne({
+    where: { email },
+    include: [
+      { model: Organization, as: 'organization', attributes: ['name'] },
+    ],
+  });
   if (!user) {
-    throw new Error('Invalid email or password');
+    throw new UnauthorizedError('Invalid email or password');
   }
 
   const isPasswordValid = await bcrypt.compare(password, user.password);
   if (!isPasswordValid) {
-    throw new Error('Invalid email or password');
+    throw new UnauthorizedError('Invalid email or password');
   }
 
   const token = generateToken(user);
 
-  const userDetails = transform(user);
-
-  return { user: userDetails, token };
+  return { user: transform(user), token };
 };
 
 export const getUser = async (userId: string) => {
-  const user = await User.findByPk(userId);
+  const user = await User.findByPk(userId, {
+    include: [
+      { model: Organization, as: 'organization', attributes: ['name'] },
+    ],
+  });
   if (!user) {
-    throw new Error('User not found');
+    throw new NotFoundError('User');
   }
 
   return transform(user);

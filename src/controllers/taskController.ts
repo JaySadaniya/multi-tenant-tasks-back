@@ -31,16 +31,8 @@ export const createTask = async (
     );
 
     res.status(201).json(task);
-  } catch (error: any) {
-    if (
-      error.message === 'Project not found' ||
-      error.message === 'User not found' ||
-      error.message === 'Assignee must be a member of the project'
-    ) {
-      res.status(400).json({ message: error.message });
-    } else {
-      next(error);
-    }
+  } catch (error) {
+    next(error);
   }
 };
 
@@ -65,18 +57,8 @@ export const updateTask = async (
     );
 
     res.status(200).json(task);
-  } catch (error: any) {
-    if (error.message === 'Task not found') {
-      res.status(404).json({ message: error.message });
-    } else if (
-      error.message === 'Project not found' ||
-      error.message === 'User not found' ||
-      error.message === 'Assignee must be a member of the project'
-    ) {
-      res.status(400).json({ message: error.message });
-    } else {
-      next(error);
-    }
+  } catch (error) {
+    next(error);
   }
 };
 
@@ -97,17 +79,8 @@ export const updateTaskStatus = async (
       userId,
     );
     res.status(200).json(task);
-  } catch (error: any) {
-    if (error.message === 'Task not found') {
-      res.status(404).json({ message: error.message });
-    } else if (
-      error.message === 'Invalid status' ||
-      error.message === 'Cannot update a completed task'
-    ) {
-      res.status(400).json({ message: error.message });
-    } else {
-      next(error);
-    }
+  } catch (error) {
+    next(error);
   }
 };
 
@@ -128,18 +101,8 @@ export const updateTaskAssignee = async (
       userId,
     );
     res.status(200).json(task);
-  } catch (error: any) {
-    if (error.message === 'Task not found') {
-      res.status(404).json({ message: error.message });
-    } else if (
-      error.message === 'Project not found' ||
-      error.message === 'User not found' ||
-      error.message === 'Assignee must be a member of the project'
-    ) {
-      res.status(400).json({ message: error.message });
-    } else {
-      next(error);
-    }
+  } catch (error) {
+    next(error);
   }
 };
 
@@ -152,12 +115,8 @@ export const deleteTask = async (
     const { id } = req.params;
     await taskService.deleteTask(id as string);
     res.status(200).json({ message: 'Task deleted successfully' });
-  } catch (error: any) {
-    if (error.message === 'Task not found') {
-      res.status(404).json({ message: error.message });
-    } else {
-      next(error);
-    }
+  } catch (error) {
+    next(error);
   }
 };
 

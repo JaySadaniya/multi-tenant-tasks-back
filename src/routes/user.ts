@@ -12,7 +12,7 @@ router.get('/me', auth, userController.getMe);
 const registerSchema = Joi.object({
   email: Joi.string().email().required(),
   password: Joi.string()
-    .pattern(/^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{6,}$/)
+    .pattern(/^(?=.*[A-Za-z])(?=.*\d).{6,}$/)
     .required()
     .messages({
       'string.pattern.base':

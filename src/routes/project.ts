@@ -6,6 +6,13 @@ import { UserRole } from '../types';
 
 const router = express.Router();
 
+router.get(
+  '/',
+  auth,
+  checkRole([UserRole.ADMIN, UserRole.MEMBER]),
+  projectController.getUserProjects,
+);
+
 router.post(
   '/',
   auth,

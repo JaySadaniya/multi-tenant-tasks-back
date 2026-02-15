@@ -50,15 +50,8 @@ export const addUserToProject = async (
       userId,
     );
     res.status(200).json(result);
-  } catch (error: any) {
-    if (
-      error.message === 'Project not found' ||
-      error.message === 'User not found'
-    ) {
-      res.status(404).json({ message: error.message });
-    } else {
-      next(error);
-    }
+  } catch (error) {
+    next(error);
   }
 };
 
@@ -71,12 +64,8 @@ export const getProjectUsers = async (
     const { projectId } = req.params;
     const users = await projectService.getProjectUsers(projectId as string);
     res.status(200).json(users);
-  } catch (error: any) {
-    if (error.message === 'Project not found') {
-      res.status(404).json({ message: error.message });
-    } else {
-      next(error);
-    }
+  } catch (error) {
+    next(error);
   }
 };
 
@@ -91,11 +80,26 @@ export const getProjectAnalytics = async (
       projectId as string,
     );
     res.status(200).json(analytics);
-  } catch (error: any) {
-    if (error.message === 'Project not found') {
-      res.status(404).json({ message: error.message });
-    } else {
-      next(error);
+  } catch (error) {
+    next(error);
+  }
+};
+
+export const getUserProjects = async (
+  req: Request,
+  res: Response,
+  next: NextFunction,
+) => {
+  try {
+    const userId = req.user?.id;
+
+    if (!userId) {
+      return res.status(401).json({ message: 'Unauthorized' });
     }
+
+    const projects = await projectService.getUserProjects(userId);
+    res.status(200).json(projects);
+  } catch (error) {
+    next(error);
   }
 };

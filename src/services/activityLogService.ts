@@ -1,15 +1,5 @@
 import { ActivityLog, User } from '../models';
-
-interface GetActivityLogsFilters {
-  taskId?: string;
-  projectId?: string;
-  userId?: string;
-}
-
-interface PaginationOptions {
-  page: number;
-  limit: number;
-}
+import { GetActivityLogsFilters, PaginationOptions } from '../types';
 
 export const getActivityLogs = async (
   filters: GetActivityLogsFilters,
@@ -41,12 +31,6 @@ export const getActivityLogs = async (
     limit,
     offset,
     order: [['createdAt', 'DESC']],
-    include: [
-      // Optional: Include Actor details
-      // { model: User, as: 'user', attributes: ['id', 'email', 'name'] }
-      // We need to verify if association exists or setup it if we want it.
-      // For now, raw logs are fine/requested.
-    ],
   });
 
   return {

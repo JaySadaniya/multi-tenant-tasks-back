@@ -8,6 +8,13 @@ import auth from '../middlewares/auth';
 
 const router = express.Router();
 
+router.get(
+  '/users',
+  auth,
+  checkRole([UserRole.ADMIN, UserRole.MEMBER]),
+  organizationController.getOrganizationUsers,
+);
+
 const createOrganizationSchema = Joi.object({
   name: Joi.string().min(2).required(),
 });
