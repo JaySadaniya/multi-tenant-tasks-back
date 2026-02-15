@@ -10,7 +10,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "migration:generate": "sequelize-cli migration:generate --name",
     "migration:up": "sequelize-cli db:migrate",
-    "migration:down": "sequelize-cli db:migrate:undo"
+    "migration:down": "sequelize-cli db:migrate:undo",
+    "seed:generate": "sequelize-cli seed:generate --name",
+    "seed:up": "sequelize-cli db:seed:all",
+    "seed:down": "sequelize-cli db:seed:undo:all"
   },
   "repository": {
     "type": "git",

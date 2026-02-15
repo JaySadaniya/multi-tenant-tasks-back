@@ -47,7 +47,7 @@ const verifyValidation = async () => {
     const res3 = await fetch(API_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...validPayload, password: '123' })
+        body: JSON.stringify({ ...validPayload, password: '123456' })
     });
     console.log('Status:', res3.status);
     const data3 = await res3.json();
