@@ -4,6 +4,7 @@ import { User } from './user';
 import { Project } from './project';
 import { Task } from './task';
 import { ActivityLog } from './activityLog';
+import { ProjectUser } from './projectUser';
 
 // Associations
 
@@ -23,6 +24,10 @@ ActivityLog.belongsTo(Organization, { foreignKey: 'organizationId', as: 'organiz
 Project.hasMany(Task, { foreignKey: 'projectId', as: 'tasks' });
 Task.belongsTo(Project, { foreignKey: 'projectId', as: 'project' });
 
+// Project - User (Membership)
+Project.belongsToMany(User, { through: ProjectUser, as: 'members', foreignKey: 'projectId', otherKey: 'userId' });
+User.belongsToMany(Project, { through: ProjectUser, as: 'projects', foreignKey: 'userId', otherKey: 'projectId' });
+
 // User - Task (Assignee)
 User.hasMany(Task, { foreignKey: 'assigneeId', as: 'assignedTasks' });
 Task.belongsTo(User, { foreignKey: 'assigneeId', as: 'assignee' });
@@ -31,5 +36,5 @@ Task.belongsTo(User, { foreignKey: 'assigneeId', as: 'assignee' });
 User.hasMany(ActivityLog, { foreignKey: 'userId', as: 'activities' });
 ActivityLog.belongsTo(User, { foreignKey: 'userId', as: 'user' });
 
-export { sequelize, Organization, User, Project, Task, ActivityLog };
+export { sequelize, Organization, User, Project, Task, ActivityLog, ProjectUser };
 export default sequelize;
