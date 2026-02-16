@@ -19,7 +19,7 @@ To focus on delivering a robust MVP (Minimum Viable Product) within constraints,
 
 - **Advanced Caching Layer**: Implementing Redis for caching user sessions or frequent queries was skipped. While beneficial for ultra-high scale, it adds infrastructure complexity that wasn't strictly necessary for the initial target load.
 - **Message Queues**: Asynchronous processing is currently handled within the application process or simple async functions. A dedicated message queue (RabbitMQ/Kafka) was deemed overkill for the current scope.
-- **Comprehensive Test Suite**: While the structure for tests exists, a full suite of automated integration/E2E tests was deprioritized in favor of manual verification scripts to speed up initial feature delivery.
+- **Comprehensive Test Suite**: A full suite of automated integration/E2E tests was deprioritized to speed up initial feature delivery.
 - **GraphQL**: REST was chosen over GraphQL for simplicity and standard tooling compatibility, though GraphQL could offer more flexible data fetching for the frontend in the future.
 
 ## 3. Trade-offs Made

@@ -103,14 +103,24 @@ The application implements several security best practices to protect data and i
     # Update .env with your configuration
     ```
 
-3.  **Run with Docker**:
+3.  **Install & Setup Database**:
+
+    ```bash
+    npm install
+    # Run Migrations
+    npm run migration:up
+    # Run Seeds
+    npm run seed:up
+    ```
+
+4.  **Run with Docker**:
 
     ```bash
     docker-compose up --build
     ```
 
-4.  **Run Locally**:
+5.  **Run Locally**:
+
     ```bash
-    npm install
     npm run dev
     ```
